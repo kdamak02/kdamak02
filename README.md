@@ -38,6 +38,11 @@ Send an engine sound on Telegram, get a likely fault, guided physical checks and
 Three agents: an audio model service (AST embeddings, autoencoder anomaly detection) and two **LLM + RAG** agents (Qdrant), orchestrated with n8n.
 `PyTorch` `Audio DL` `RAG` `Qdrant` `n8n` `FastAPI`
 
+### [Tunicare Solutions website](https://github.com/kdamak02/tunicare-website) · Freelance · **live at [tunicare.tn](https://www.tunicare.tn)**
+Corporate website for a medical-surgical equipment distributor in Tunisia, designed, built and deployed for a paying client:
+product catalogue, quote requests through a contact-form API (Resend), SEO and Vercel deployment.
+`Next.js` `TypeScript` `Tailwind CSS` `Vercel`
+
 ---
 
 ## 💼 Experience
@@ -51,7 +56,7 @@ Three agents: an audio model service (AST embeddings, autoencoder anomaly detect
 
 **AI / Data:** LLM agents · tool calling · multi-agent systems · NLP · Transformers · RAG · ML / deep learning · anomaly detection  
 **Languages:** Python · SQL · TypeScript · JavaScript · Java · C++ · R  
-**Frameworks:** PyTorch · TensorFlow · scikit-learn · Hugging Face · ONNX · FastAPI · NestJS · Spring Boot · React  
+**Frameworks:** PyTorch · TensorFlow · scikit-learn · Hugging Face · ONNX · FastAPI · NestJS · Spring Boot · React · Next.js  
 **Automation & ops:** n8n · Docker · GitHub Actions · pytest · AWS · Linux  
 **Databases:** PostgreSQL · MySQL · MongoDB · Neo4j · Qdrant
 
